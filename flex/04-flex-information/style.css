@@ -24,3 +24,24 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* things i did */
+.title{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  justify-content: space-evenly;
+  flex-grow: 1;
+  padding-top: 50px;
+}
+.cont{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 200px;
+}
